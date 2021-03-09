@@ -11,4 +11,24 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-} 
+
+}
+#content-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+}
+input{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 25%;
+    border: 1px solid transparent;
+    background-color: #f1f1f1; 
+    padding : 10px; 
+    font-size: 16px; 
+    border-radius: 12px; 
+    text-align: start 
+}
