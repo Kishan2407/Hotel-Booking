@@ -18,6 +18,7 @@
 
 .hotels{
     margin: 2%;
+    margin-top: 2%;
     background-color: lightgray;
     width: 40%;
     float: left;
@@ -34,3 +35,6 @@
     background-color: rosybrown;
 
 }
+.checked {
+    color: orange;
+  } 
